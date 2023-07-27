@@ -3,7 +3,9 @@ tls-cc-tools (formally tls-cc-validator)
 
 ## About This Project
 This project is intended to demonstrate how one might use OpenSSL (or similarly to constructed TLS engine) to test a TLS client for conformance to
-the TLS requirements as laid out by NIAP's Application Software Protection Profile(https://www.niap-ccevs.org/pp/PP_APP_v1.1/) as part of the Common Criteria framework.
+the TLS requirements as laid out by NIAP's Application Software Protection Profile(https://www.niap-ccevs.org/pp/PP_APP_v1.1/) as part of the Common Criteria framework.\
+
+This project has been cloned from the Common Criteria Github.
 
 ## License
 This work was prepared by an U.S. Government employee and, therefore, is excluded from copyright by Section 105 of the Copyright Act of 1976.
